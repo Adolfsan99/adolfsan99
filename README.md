@@ -32,9 +32,6 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * Postman
 * MySQL, MongoDB (Base de datos)
 
-## Detalles adicionales
-Más detalles sobre mí, en mi hoja de vida. (https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf)
-
 ### Hard Skills
 
 * Programación: Puedo resolver problemas de codificación, depuración, testing, asi como crear desarrollos web, usando tecnologias como, HTML, CSS, JavaScript, JAVA, Frameworks webs y de aplicaciones como Glide.
@@ -48,4 +45,7 @@ Más detalles sobre mí, en mi hoja de vida. (https://adolfsan99.github.io/sanch
 * Habilidad analítica: Puedo analizar y comprender problemas complejos, identificar patrones y tendencias, y llegar a soluciones efectivas.
 * Mejora continua: Estoy comprometido a mejorar con el fin de alcanzar la excelencia tanto en mi trabajo como en mi vida personal.
 * Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme en el camino a pesar de los obstáculos en el camino.
+
+## Detalles adicionales
+Más detalles sobre mí, en mi hoja de vida. (https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf)
 
