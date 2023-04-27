@@ -64,7 +64,6 @@ alt="mongodb" width="30" height="30" /> </a>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 alt="mysql" width="30" height="30" /> </a>
 
-<br>
 
 #### Frameworks y herramientas de desarrollo
 
@@ -86,8 +85,6 @@ alt="bootstrap" width="30" height="30" /> </a>   
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
 alt="materializar" width="30" height="30" /> </a>
 
-<br>
-
 #### Herramientas de diseño
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
@@ -100,8 +97,6 @@ href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img
 src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq"
 width="30" height="30" /> </a>
 
-<br>
-
 #### Plataforma de servicios en la nube
 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img
@@ -111,7 +106,6 @@ alt="railway" width="30" height="30" /> </a>   
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30" /> </a>
 
-<br>
 
 #### Lenguajes de marcado
 
@@ -122,7 +116,7 @@ alt="html5" width="30" height="30" /> </a>   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
 width="30" height="30" /> </a>
 
-<br><br>
+<br>
 
 ## Más información
 
