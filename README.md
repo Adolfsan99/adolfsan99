@@ -6,15 +6,14 @@ alt="adolfsan99" /> </p>
 <br>
 
 ## Performance
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
-</p>
 <img align="left" 
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&amp;show_icons=true&amp;locale=en">
-<p>
-<p>
+
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99 activity" />
-</p>
+
 
 <br><br>
 
