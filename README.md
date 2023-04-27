@@ -16,7 +16,7 @@ alt="adolfsan99" />
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact"
 alt="adolfsan99" />
-</p>   <p>
+</p><br><br><br><p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99" />
 </p>
 
