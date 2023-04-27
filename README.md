@@ -9,7 +9,7 @@ alt="adolfsan99" /> </p>
 <img align="left" 
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&amp;show_icons=true&amp;locale=en">
 <p>
-<img align="center"
+<img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
 </p>
 <p>
