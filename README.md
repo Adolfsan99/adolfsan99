@@ -5,11 +5,12 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 
 ## Manejo de software
 * GIT
+* Postman
+* PHP MyAdmin
 * Visual Studio Code
 * Intellij idea
 * Bootstrap Framework
 * HTML/CSS/JS
-* ChatGPT
 * Microsoft Windows (Sistema operativo)
 * Microsoft Office (Word, PowerPoint, Excel, etc)
 * Adobe Photoshop
@@ -25,8 +26,10 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * JavaScript
 * Bootstrap
 * Java
-* Springboot Framework (API Rest)
-* MySQL
+* Springboot (API Rest)
+* JUnit5
+* Postman
+* MySQL, MongoDB (Base de datos)
 
 ## Detalles adicionales
 Más detalles sobre mí, en mi hoja de vida. (https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf)
