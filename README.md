@@ -116,11 +116,10 @@ alt="html5" width="30" height="30" /> </a>   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
 width="30" height="30" /> </a>
 
-<br>
+<br><br>
 
 ## Más información
 
-<br>
 
 #### Redes sociales
 
@@ -134,7 +133,7 @@ alt="adolfosanchezlopez" width="30" height="30" /> </a>  
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
 alt="adolfosan99" width="30" height="30" /> </a>
 
-<br><br>
+<br>
 
 Tambien puedes revisar mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja
 de Vida</a>.
