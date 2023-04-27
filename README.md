@@ -24,9 +24,6 @@ alt="adolfsan99" />
 </p>
 
 #### Proyectos
-* <a href="">Selocambio.com</a>
-* <a href="">Econnect</a>
-
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
 alt="selocambio.com" width="20" height="20" /> Selocambio.com</a>   
