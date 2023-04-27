@@ -13,6 +13,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * HTML/CSS/JS
 * Microsoft Windows (Sistema operativo)
 * Microsoft Office (Word, PowerPoint, Excel, etc)
+* Adobe XD/Figma/Balsamiq (Wireframes/Mockups)
 * Adobe Photoshop
 * Adobe Ilustraitor
 * Adobe After Effects
