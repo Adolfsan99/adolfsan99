@@ -25,20 +25,16 @@ Más detalles sobre mí, en mi hoja de vida.
 
 ### Hard Skills
 
-#### Programación
-
+* #### Programación
 Puedo resolver problemas de codificación, depuración, testing, asi como crear desarrollos web, usando tecnologias como, HTML, CSS, JavaScript, JAVA, Frameworks webs y de aplicaciones como Glide.
 
-#### Producción multimedia
-
+* #### Producción multimedia
 Puedo crear contenido multimedia de alta calidad, incluyendo video, gráficos, y animaciones, usando tecnologias como Adobe Ilustraitor, After Effects y Photoshop.
 
-#### Diseño
-
+* #### Diseño
 Puedo crear interfaces de usuario efectivas y atractivas, así como también soluciones visuales para proyectos de multimedia, usando tecnologias como Adobe XD, Adobe Ilustraitor, Figma y Balsamiq.
 
-### Idiomas
-
+* ### Idiomas
 B1: Nivel Intermedio
 
 Dispongo de habilidades lingüísticas en Ingles suficientes como para desenvolverme en situaciones cotidianas.
