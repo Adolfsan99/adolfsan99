@@ -6,11 +6,7 @@ alt="adolfsan99" /> </p>
 <br>
 
 ## Performance
-<p>
-&nbsp;<img align="left"
-src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
-alt="adolfsan99" style="margin-bottom: 16px;"/>
-&nbsp;<p>
+<img align="left" src="https://camo.githubusercontent.com/dc4e034823def1f656622fa078548568a8c85156ede9660113322abd044eda0c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646f6c6673616e39392673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="adolfsan99" data-canonical-src="https://github-readme-stats.vercel.app/api?username=adolfsan99&amp;show_icons=true&amp;locale=es" style="margin-bottom: 16px">
 <p>
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99" />
