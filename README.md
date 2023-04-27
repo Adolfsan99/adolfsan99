@@ -3,7 +3,7 @@ alt="adolfsan99" /> </p>
 <h2 align="center">Hola 👋 soy Adolfo Sánchez López! 😅 </h2>
 <h1 align="center">Desarrollador Junior Full-Stack/Java-Web y Productor Multimedia.</h1>
 
-# Perfil profesional
+## Perfil profesional
 Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con habilidades en programación y diseño, puedo ofrecer soluciones efectivas y contenido multimedia de alta calidad. Tengo capacidad de análisis y de resolución de problemas, lo que me permite identificar y resolver problemas complejos. Comprometido con la excelencia en mi trabajo, busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación. Mi objetivo final es trabajar en proyectos desafiantes que amplíen mis habilidades y me ayuden a crecer profesionalmente.
 
 #### Hard Skills
@@ -26,7 +26,7 @@ vida personal.
 * Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme, a pesar de los obstáculos
 en el camino.
 
-# Performance
+## Performance
 <p>
 &nbsp;<img align="left"
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
@@ -47,7 +47,7 @@ alt="adolfsan99" />
 * <a href="https://selocambio.netlify.app/">Selocambio.com</a>
 * <a href="https://adolfsan99.github.io/econnect/index.html">Econnect</a>
 
-# Stack de tecnologias
+## Stack de tecnologias
 #### Lenguajes de programación
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -117,7 +117,7 @@ alt="html5" width="20" height="20" /> HTML5   </a>
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
 width="20" height="20" /> CSS3</a>
 
-# Más información
+## Más información
 
 #### Redes sociales
 <p align="left"><a href="https://linkedin.com/in/adolfosanchezlopez" target="blank"><img align="center"
