@@ -5,6 +5,23 @@ alt="adolfsan99" /> </p>
 
 <br>
 
+## Performance
+<p>
+&nbsp;<img align="left"
+src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
+alt="adolfsan99" />
+<p><br><br><br>
+
+<p>
+<img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact"
+alt="adolfsan99" />
+</p>   <p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99" />
+</p>
+
+<br><br>
+
 ## Perfil profesional
 Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con habilidades en programación y diseño, puedo ofrecer soluciones efectivas y contenido multimedia de alta calidad. Tengo capacidad de análisis y de resolución de problemas, lo que me permite identificar y resolver problemas complejos. Comprometido con la excelencia en mi trabajo, busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación. Mi objetivo final es trabajar en proyectos desafiantes que amplíen mis habilidades y me ayuden a crecer profesionalmente.
 
@@ -21,25 +38,6 @@ alt="econnect" width="30" height="30" /> Econnect</a>   
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
 alt="portafolio" width="30" height="30" /> Portafolio Personal</a>  
-<br><br>
-
-## Performance
-<p>
-&nbsp;<img align="left"
-src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
-alt="adolfsan99" />
-<p><br><br><br><br><br><br>
-  
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact"
-alt="adolfsan99" />
-</p>  
- 
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99" />
-</p>
-
 <br><br>
 
 ## Stack de tecnologias
