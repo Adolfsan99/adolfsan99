@@ -6,6 +6,14 @@ alt="adolfsan99" /> </p>
 ## Perfil profesional
 Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con habilidades en programación y diseño, puedo ofrecer soluciones efectivas y contenido multimedia de alta calidad. Tengo capacidad de análisis y de resolución de problemas, lo que me permite identificar y resolver problemas complejos. Comprometido con la excelencia en mi trabajo, busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación. Mi objetivo final es trabajar en proyectos desafiantes que amplíen mis habilidades y me ayuden a crecer profesionalmente.
 
+## Proyectos
+<a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
+alt="selocambio.com" width="30" height="30" /> Selocambio.com</a>   
+<a href="https://adolfsan99.github.io/econnect/index.html" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/Adolfsan99/econnect/main/img/ecoicon.png"
+alt="econnect" width="30" height="30" /> Econnect</a>   
+
 ## Performance
 <p>
 &nbsp;<img align="left"
@@ -23,13 +31,7 @@ alt="adolfsan99" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99" />
 </p>
 
-#### Proyectos
-<a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
-alt="selocambio.com" width="20" height="20" /> Selocambio.com</a>   
-<a href="https://adolfsan99.github.io/econnect/index.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/Adolfsan99/econnect/main/img/ecoicon.png"
-alt="econnect" width="20" height="20" /> Econnect</a>   
+
 
 ## Stack de tecnologias
 #### Lenguajes de programación
@@ -40,7 +42,7 @@ alt="javascript" width="20" height="20" /> JavaScript</a>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
 width="20" height="20" /> Java</a>
 
-### Bases de datos
+#### Bases de datos
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 alt="mongodb" width="20" height="20" /> MongoDB</a>   
