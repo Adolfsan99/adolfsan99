@@ -12,8 +12,6 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 
 ## Proyectos
 
-<br>
-
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
 alt="selocambio.com" width="30" height="30" /> Selocambio.com</a>   
@@ -44,11 +42,9 @@ alt="adolfsan99" />
 
 ## Stack de tecnologias
 
-<br>
 
 #### Lenguajes de programación
 
-<br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -61,9 +57,6 @@ width="30" height="30" /> </a>
 
 #### Bases de datos
 
-<br>
-
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 alt="mongodb" width="30" height="30" /> </a>   
@@ -74,9 +67,6 @@ alt="mysql" width="30" height="30" /> </a>
 <br>
 
 #### Frameworks y herramientas de desarrollo
-
-<br>
-
 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJIDEA" width="30" height="30" /> </a>   
@@ -100,9 +90,6 @@ alt="materializar" width="30" height="30" /> </a>
 
 #### Herramientas de diseño
 
-<br>
-
-
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
 src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator"
 width="30" height="30" /> </a>   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
@@ -117,9 +104,6 @@ width="30" height="30" /> </a>
 
 #### Plataforma de servicios en la nube
 
-<br>
-
-
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30" /> </a>   
 <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.app/brand/logo-light.svg"
@@ -130,9 +114,6 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 <br>
 
 #### Lenguajes de marcado
-
-<br>
-
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -148,8 +129,6 @@ width="30" height="30" /> </a>
 <br>
 
 #### Redes sociales
-
-<br>
 
 <p align="left"><a href="https://linkedin.com/in/adolfosanchezlopez" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
