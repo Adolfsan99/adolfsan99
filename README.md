@@ -10,13 +10,12 @@ alt="adolfsan99" /> </p>
 &nbsp;<img align="left"
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
 alt="adolfsan99" />
-<p><br>
-
+&nbsp;<p><br>
 <p>
 <img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact"
-alt="adolfsan99" />
-</p><br><br><br><p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99" />
+</p>
+<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfsan99&" alt="adolfsan99" />
 </p>
 
