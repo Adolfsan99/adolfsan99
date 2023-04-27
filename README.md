@@ -137,7 +137,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * Aprendizaje y experimentación: Busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación con el fin de poder ser mas proactivo, crecer profesionalmente e innovar.
 * Habilidad analítica: Puedo analizar y comprender problemas complejos, identificar patrones y tendencias, y llegar a soluciones efectivas.
 * Mejora continua: Estoy comprometido a mejorar con el fin de alcanzar la excelencia tanto en mi trabajo como en mi vida personal.
-* Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme en el camino a pesar de los obstáculos en el camino.
+* Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme, a pesar de los obstáculos en el camino.
 
 ## Detalles adicionales
 Más detalles sobre mí, en mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja De Vida</a>.
