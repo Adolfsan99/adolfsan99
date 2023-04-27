@@ -1,6 +1,6 @@
 # Hola 👋 soy Adolfo Sánchez López!
 
-# Desarrollador Junior Full-Stack Java / Web y productor multimedia
+# Desarrollador Junior Full-Stack Java / Web & Productor multimedia
 Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con habilidades en programación y diseño, puedo ofrecer soluciones efectivas y contenido multimedia de alta calidad. Tengo capacidad de análisis y de resolución de problemas, lo que me permite identificar y resolver problemas complejos. Comprometido con la excelencia en mi trabajo, busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación. Mi objetivo final es trabajar en proyectos desafiantes que amplíen mis habilidades y me ayuden a crecer profesionalmente.
 
 ## Manejo de Software
