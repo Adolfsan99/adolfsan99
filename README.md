@@ -7,7 +7,7 @@ alt="adolfsan99" /> </p>
 
 ## Performance
 <img align="left" 
-src="https://github-readme-stats.vercel.app/api?username=adolfsan99&amp;show_icons=true&amp;locale=es" alt="adolfsan99 stats">
+src="https://github-readme-stats.vercel.app/api?username=adolfsan99&amp;show_icons=true&amp;locale=en">
 <p>
 <img align="right"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
