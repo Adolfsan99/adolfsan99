@@ -8,9 +8,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 
 <table>
   <thead>
-    <tr>
 
-    </tr>
   </thead>
   <tbody>
     <tr>
@@ -83,9 +81,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 # Stack de tecnologias
 <table>
   <thead>
-    <tr>
 
-    </tr>
   </thead>
   <tbody>
     <tr>
