@@ -9,8 +9,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th></th>
+
     </tr>
   </thead>
   <tbody>
@@ -85,8 +84,7 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th></th>
+
     </tr>
   </thead>
   <tbody>
@@ -145,4 +143,6 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme en el camino a pesar de los obstáculos en el camino.
 
 ## Detalles adicionales
-Más detalles sobre mí, en mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">hoja de vida</a>.
+Más detalles sobre mí, en mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja de vida</a>.
+<br>
+<br>
