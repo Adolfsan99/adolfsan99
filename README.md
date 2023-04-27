@@ -110,4 +110,4 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 <a href="https://www.behance.net/adolfosanchezlopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adolfosanchezlopez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adolfosan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adolfosan99" height="30" width="40" /></a></p>
 
-Más información sobre mí, en mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja de Vida</a>.
+Tambien puedes revisar mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja de Vida</a>.
