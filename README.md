@@ -10,7 +10,7 @@ alt="adolfsan99" /> </p>
 &nbsp;<img align="left"
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&show_icons=true&locale=en"
 alt="adolfsan99" />
-&nbsp;<p><br>
+&nbsp;<p>
 <p>
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&show_icons=true&locale=en&layout=compact" alt="adolfsan99" />
