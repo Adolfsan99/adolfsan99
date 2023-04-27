@@ -34,7 +34,8 @@ alt="econnect" width="30" height="30" /> Econnect</a>   
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
 alt="portafolio" width="30" height="30" /> Portafolio Personal</a>  
-<br><br>
+
+<br><br><br>
 
 ## Stack de tecnologias
 
