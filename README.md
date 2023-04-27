@@ -139,6 +139,11 @@ Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con
 * Mejora continua: Estoy comprometido a mejorar con el fin de alcanzar la excelencia tanto en mi trabajo como en mi vida personal.
 * Perseverancia: Estoy dispuesto a culminar satisfactoriamente cada proyecto sin rendirme, a pesar de los obstáculos en el camino.
 
+## Proyectos
+
+* <a href="https://selocambio.netlify.app/">Selocambio.com</a>
+* <a href="https://adolfsan99.github.io/econnect/index.html">Econnect</a>
+
 ## Detalles adicionales
 Más detalles sobre mí, en mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja de Vida</a>.
 <br>
