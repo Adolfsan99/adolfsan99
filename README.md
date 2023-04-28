@@ -13,7 +13,7 @@ src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=vue-da
 <img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=vue-dark&locale=es&layout=compact" alt="adolfsan99 tecnologies" />
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=vue-dark&locale=es&exclude_days=Sun%2CSat&card_width=480)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=tokyonight-duo&hide_border=true&locale=es&card_width=467)](https://git.io/streak-stats)
 
 <br><br>
 
