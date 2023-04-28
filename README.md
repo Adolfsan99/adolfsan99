@@ -3,8 +3,6 @@ alt="adolfsan99" /> </p>
 <h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López! 😅</h1>
 <h2 align="center" style = "color: #22e18b;">Desarrollador Web Full-Stack | Productor Multimedia</h2>
 
-<br>
-
 ## Actividad
 
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844&layout=compact)](https://git.io/streak-stats)
