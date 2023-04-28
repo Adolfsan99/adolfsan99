@@ -31,15 +31,20 @@ Mi camino no ha sido fácil, pero estoy orgulloso de haber superado cada obstác
 
 ## Proyectos
 
+<div>
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
-alt="selocambio.com" width="30" height="30" /> Selocambio</a>   
+alt="selocambio.com" width="30" height="30" />  Selocambio</a>   </div>
+<br>
+<div>
 <a href="https://adolfsan99.github.io/econnect/index.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/econnect/main/img/ecoicon.png"
-alt="econnect" width="30" height="30" /> Econnect</a>   
+alt="econnect" width="30" height="30" />  Econnect</img></a>   </div>
+<br>
+<div>
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
-alt="portafolio" width="30" height="30" /> Portafolio</a>  
+alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
 
 <br><br><br>
 
