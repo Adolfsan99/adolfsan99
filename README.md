@@ -7,7 +7,7 @@ alt="adolfsan99" /> </p>
 
 ## Performance
 
-[![GitHub Rank](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=bear&show_icons=true&amp;hide_border=true&locale=es&card_width=360)](https://git.io/streak-stats)
+[![GitHub Rank](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=bear&show_icons=true&amp;hide_border=true&locale=es)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=360)](https://git.io/streak-stats)
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=360&layout=compact)](https://git.io/streak-stats)
 
