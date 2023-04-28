@@ -1,7 +1,7 @@
 <h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López! 😅</h1>
 <h2 align="center" style = "color: #22e18b;">Desarrollador Web Full-Stack | Productor Multimedia</h2>
 
-## Mi Actividad
+## Performance
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=844&locale=es)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=844)](https://git.io/streak-stats)
@@ -26,7 +26,7 @@ alt="econnect" width="30" height="30" />  Econnect</img></a>   </div>
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
 alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
 
-<br>
+<br><br>
 
 ## Sobre mí
 Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
@@ -36,10 +36,6 @@ Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, p
 Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
 
 <br><br>
-
-
-
-<br><br><br>
 
 ## Stack de tecnologias
 
