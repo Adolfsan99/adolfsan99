@@ -11,7 +11,7 @@ alt="adolfsan99" /> </p>
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=tokyonight&show_icons=true&amp;hide_border=true&locale=es">
 
 <img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=tokyonight&locale=es&layout=compact" alt="adolfsan99 tecnologies" />
+src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=tokyonight&hide_border=true&locale=es&layout=compact" alt="adolfsan99 tecnologies" />
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=tokyonight-duo&hide_border=true&locale=es&card_width=467)](https://git.io/streak-stats)
 
