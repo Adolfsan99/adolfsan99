@@ -1,7 +1,7 @@
 <h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López! 😅</h1>
 <h2 align="center" style = "color: #22e18b;">Desarrollador Web Full-Stack | Productor Multimedia</h2>
 
-## Actividad
+## Mi Actividad
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=844&locale=es)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=844)](https://git.io/streak-stats)
