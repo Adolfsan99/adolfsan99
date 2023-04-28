@@ -9,15 +9,6 @@
 
 <br>
 
-## Sobre mí
-Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
-
-Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, porque mi mayor motivación es mi familia y quiero brindarles un futuro mejor. Aprendí que para lograr algo en la vida, se necesita trabajar duro y estar dispuesto a aprender de los errores.
-
-Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
-
-<br><br>
-
 ## Proyectos
 
 <div>
@@ -34,6 +25,19 @@ alt="econnect" width="30" height="30" />  Econnect</img></a>   </div>
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
 alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
+
+<br>
+
+## Sobre mí
+Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
+
+Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, porque mi mayor motivación es mi familia y quiero brindarles un futuro mejor. Aprendí que para lograr algo en la vida, se necesita trabajar duro y estar dispuesto a aprender de los errores.
+
+Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
+
+<br><br>
+
+
 
 <br><br><br>
 
