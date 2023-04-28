@@ -5,12 +5,6 @@ alt="adolfsan99" /> </p>
 
 <br>
 
-## Performance
-
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844&layout=compact)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=bear&show_icons=true&amp;hide_border=true&card_width=844&locale=es)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844)](https://git.io/streak-stats)
-
 ## Sobre mí
 Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
 
@@ -19,6 +13,12 @@ Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, p
 Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
 
 <br><br>
+
+## Actividad
+
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844&layout=compact)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=bear&show_icons=true&amp;hide_border=true&card_width=844&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844)](https://git.io/streak-stats)
 
 ## Proyectos
 
