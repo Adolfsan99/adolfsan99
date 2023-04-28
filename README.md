@@ -18,8 +18,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&sh
 
 <br><br>
 
-## Perfil profesional
-Soy un apasionado por crear experiencias digitales innovadoras y atractivas. Con habilidades en programación y diseño, puedo ofrecer soluciones efectivas y contenido multimedia de alta calidad. Tengo capacidad de análisis y de resolución de problemas, lo que me permite identificar y resolver problemas complejos. Comprometido con la excelencia en mi trabajo, busco continuamente mejorar mis habilidades a través del aprendizaje y la experimentación. Mi objetivo final es trabajar en proyectos desafiantes que amplíen mis habilidades y me ayuden a crecer profesionalmente.
+## Sobre mí
+Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
+
+Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, porque mi mayor motivación es mi familia y quiero brindarles un futuro mejor. Aprendí que para lograr algo en la vida, se necesita trabajar duro y estar dispuesto a aprender de los errores.
+
+Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
+
+Mi camino no ha sido fácil, pero estoy orgulloso de haber superado cada obstáculo y llegar a donde estoy ahora. Me siento motivado a seguir aprendiendo y creciendo, para poder ofrecer lo mejor de mí en cada proyecto y ayudar a quienes lo necesiten.
 
 <br><br>
 
