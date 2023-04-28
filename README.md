@@ -7,15 +7,9 @@ alt="adolfsan99" /> </p>
 
 ## Performance
 
-<img align="left" 
-src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=tokyonight&show_icons=true&amp;hide_border=true&locale=es">
-
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=tokyonight&hide_border=true&locale=es&layout=compact" alt="adolfsan99 tecnologies" />
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=tokyonight-duo&hide_border=true&locale=es&card_width=467)](https://git.io/streak-stats)
-
-<br><br>
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=tokyonight&show_icons=true&amp;hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=tokyonight&hide_border=true&locale=es&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=tokyonight&hide_border=true&locale=es&card_width=467&layout=compact)](https://git.io/streak-stats)
 
 ## Sobre mí
 Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
@@ -23,8 +17,6 @@ Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y 
 Cada día me esfuerzo al máximo para mejorar mis habilidades y conocimientos, porque mi mayor motivación es mi familia y quiero brindarles un futuro mejor. Aprendí que para lograr algo en la vida, se necesita trabajar duro y estar dispuesto a aprender de los errores.
 
 Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para ayudar a las personas y por eso, me esfuerzo en llevar al máximo cada proyecto en el que trabajo. Me apasiona la posibilidad de crear experiencias digitales innovadoras y atractivas que tengan un impacto positivo en la vida de las personas.
-
-Mi camino no ha sido fácil, pero estoy orgulloso de haber superado cada obstáculo y llegar a donde estoy ahora. Me siento motivado a seguir aprendiendo y creciendo, para poder ofrecer lo mejor de mí en cada proyecto y ayudar a quienes lo necesiten.
 
 <br><br>
 
