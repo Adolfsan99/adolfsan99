@@ -11,6 +11,8 @@ alt="adolfsan99" /> </p>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=bear&show_icons=true&amp;hide_border=true&card_width=844&locale=es)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=bear&hide_border=true&locale=es&card_width=844)](https://git.io/streak-stats)
 
+<br>
+
 ## Sobre mí
 Hola, Soy Adolfo Sánchez López y soy un Desarrollador Web Junior Full-Stack y también Productor multimedia, apasionado por crear soluciones efectivas y contenido multimedia de alta calidad. Alcanzar mi posición actual ha sido un camino lleno de desafíos y dificultades, pero mi determinación y perseverancia me han permitido superarlos.
 
