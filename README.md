@@ -33,7 +33,7 @@ Mi camino no ha sido fácil, pero estoy orgulloso de haber superado cada obstác
 
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
-alt="selocambio.com" width="30" height="30" /> Selocambio.com</a>   
+alt="selocambio.com" width="30" height="30" /> Selocambio</a>   
 <a href="https://adolfsan99.github.io/econnect/index.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/econnect/main/img/ecoicon.png"
 alt="econnect" width="30" height="30" /> Econnect</a>   
