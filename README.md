@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adolfsan99&label=Profile%20views&color=0e75b6&style=flat"
 alt="adolfsan99" /> </p>
 <h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López! 😅</h1>
-<h2 align="center" style = "color: #22e18b;">Desarrollador Junior Full-Stack/Java-Web y Productor Multimedia.</h2>
+<h2 align="center" style = "color: #22e18b;">Desarrollador Web Full-Stack | Productor Multimedia</h2>
 
 <br>
 
