@@ -129,8 +129,8 @@ alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30" /> </a>  
-
-<br><br>
+  
+<br>
 
 #### A futuro
 
