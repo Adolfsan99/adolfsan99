@@ -11,7 +11,7 @@ alt="adolfsan99" /> </p>
 src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=ocean_dark&show_icons=true&amp;locale=en">
 
 <img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs??username=adolfsan99&theme=ocean_dark&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
+src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=ocean_dark&locale=en&layout=compact" alt="adolfsan99 tecnologies" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=adolfsan99&theme=ocean_dark&" alt="adolfsan99 activity" />
 
