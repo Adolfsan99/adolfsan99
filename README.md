@@ -33,7 +33,7 @@ alt="selocambio.com" width="30" height="30" /> Selocambio.com</a>   
 alt="econnect" width="30" height="30" /> Econnect</a>   
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
-alt="portafolio" width="30" height="30" /> Portafolio Personal</a>  
+alt="portafolio" width="30" height="30" /> Portafolio</a>  
 
 <br><br><br>
 
