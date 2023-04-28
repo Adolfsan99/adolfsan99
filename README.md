@@ -15,6 +15,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&th
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=adolfsan99&theme=ocean_dark&" alt="adolfsan99 activity" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=ocean-dark&locale=es&exclude_days=Sun%2CSat&card_width=480)](https://git.io/streak-stats)
+
 <br><br>
 
 ## Sobre mí
