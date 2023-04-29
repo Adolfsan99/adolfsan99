@@ -3,7 +3,7 @@
 <center>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=512&locale=es)](https://github.com/Adolfsan99)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=460)](https://github.com/Adolfsan99)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=1)](https://github.com/Adolfsan99)  
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=1&layout=compact)](https://github.com/Adolfsan99)
 
 </center>
