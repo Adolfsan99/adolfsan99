@@ -140,9 +140,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br><br>
 
-<h3 align="center">
+<h2 align="center">
   Aprendiendo
-</h3>
+</h2>
 
 <h4 align="center">
   Actualmente
@@ -163,8 +163,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br>
 
-#### A futuro
-
+<h4 align="center">
+  A futuro
+</h4>
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
@@ -177,22 +179,30 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="c#" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="30" height="30" /> </a>  
-
+</div>
 <br><br>
 
-## Más información
+<h2 align="center">
+  Más información
+</h2>
 
-#### Redes sociales
+<h4 align="center">
+  Redes sociales
+</h4>
 
+<div align="center">
 <a href="https://linkedin.com/in/adolfosanchezlopez" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="adolfosanchezlopez" width="30" height="30" /> </a>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="adolfosanchezlopez" width="30" height="30"/> </a> 
 <a href="https://www.hackerrank.com/adolfosan99" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adolfosan99" width="30" height="30" /> </a>
 <a href="https://www.behance.net/adolfosanchezlopez" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adolfosanchezlopez" width="30" height="30" /> </a>  
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adolfosanchezlopez" width="30" height="30" /></a>
 <br><br>
+</div>
 
+<div align="center">
 Tambien puedes revisar mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja
 de Vida</a>.
-  
+</div>
+
 <br>
