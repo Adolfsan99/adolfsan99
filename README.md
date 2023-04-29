@@ -149,10 +149,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <a href="https://linkedin.com/in/adolfosanchezlopez" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="adolfosanchezlopez" width="30" height="30" /> </a>  
+<a href="https://www.hackerrank.com/adolfosan99" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adolfosan99" width="30" height="30" /> </a>
 <a href="https://www.behance.net/adolfosanchezlopez" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adolfosanchezlopez" width="30" height="30" /> </a>  
-<a href="https://www.hackerrank.com/adolfosan99" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adolfosan99" width="30" height="30" /> </a>
 <br><br>
 
 Tambien puedes revisar mi <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Hoja-de-vida.pdf">Hoja
