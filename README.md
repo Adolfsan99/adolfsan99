@@ -4,7 +4,7 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=dark&show_icons=true&amp;hide_border=true&card_width=466&locale=es)](https://github.com/Adolfsan99)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=dark&hide_border=true&locale=es&card_width=466)](https://github.com/Adolfsan99)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=dark&hide_border=true&locale=es&card_width=466&layout=compact)](https://github.com/Adolfsan99)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=dark&hide_border=true&locale=es&card_width=233&layout=compact)](https://github.com/Adolfsan99)
 
 </center>
 
