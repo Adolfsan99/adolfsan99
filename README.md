@@ -1,4 +1,4 @@
-<h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López! 😅</h1>
+<h1 align="center" style = "color: #22e18b;">Hola soy Adolfo Sánchez López!</h1>
 <h2 align="center" style = "color: #22e18b;">Desarrollador Web Full-Stack | Productor Multimedia</h2>
 
 ## Performance
