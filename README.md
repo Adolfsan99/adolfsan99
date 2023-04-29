@@ -3,11 +3,11 @@ Performance
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&layout=compact" />
-</p>
-  
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=480&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&layout=compact" />
 </p>
   
 <p align="center">
