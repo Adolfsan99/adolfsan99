@@ -1,14 +1,16 @@
 ## Performance
 
-<center>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&layout=compact" />
+</a>
   
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&layout=compact)](https://github.com/Adolfsan99)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=480&locale=es)](https://github.com/Adolfsan99)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480)](https://github.com/Adolfsan99)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=480&locale=es" />
+</a>
   
-</center>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480" />
+</a>
 
 <br>
 
