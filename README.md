@@ -14,6 +14,8 @@ Performance
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480" />
 </p>
 
+[<img align="center" width="512" src="https://raw.githubusercontent.com/adolfsan99/adolfsan99/main/general_2.svg">](#)
+
 <br>
 
 <h2 align="center">
