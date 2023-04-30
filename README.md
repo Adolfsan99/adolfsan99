@@ -1,6 +1,6 @@
 <h2 align="center">
 Performance
-</p>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=480&locale=es" />
