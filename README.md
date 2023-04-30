@@ -65,8 +65,6 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a>
 </div>
 
-<br>
-
 <h4 align="center">
   Lenguajes de marcado
 </h4>
@@ -76,9 +74,6 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
 </div>
-
-
-<br>
 
 <h4 align="center">
  Bases de datos 
