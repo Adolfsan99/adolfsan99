@@ -20,17 +20,17 @@ Performance
 Proyectos
 </h2>
 <br>
-<div align="left">
+<div align="center">
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
 alt="selocambio.com" width="30" height="30" />  Selocambio</a>   </div>
 <br>
-<div align="left">
+<div align="center">
 <a href="https://adolfsan99.github.io/econnect/index.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/econnect/main/img/ecoicon.png"
 alt="econnect" width="30" height="30" />  Econnect</img></a>   </div>
 <br>
-<div align="left">
+<div align="center">
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
 alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
@@ -55,10 +55,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Stack de tecnologias
 </h2>
 
-<h4 align="left">
+<h4 align="center">
   Lenguajes de programación
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
@@ -67,10 +67,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br>
 
-<h4 align="left">
+<h4 align="center">
   Lenguajes de marcado
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer"> 
@@ -80,20 +80,20 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br>
 
-<h4 align="left">
+<h4 align="center">
  Bases de datos 
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /> </a>
 </div>
 
-<h4 align="left">
+<h4 align="center">
   Frameworks y herramientas de desarrollo
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJIDEA" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
@@ -110,10 +110,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materializar" width="30" height="30" /> </a>
 </div>
 
-<h4 align="left">
+<h4 align="center">
   Herramientas de diseño
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
@@ -126,10 +126,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq" width="30" height="30" /> </a>
 </div>
 
-<h4 align="left">
+<h4 align="center">
   Plataforma de servicios en la nube
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
@@ -140,15 +140,15 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br><br>
 
-<h2 align="left">
+<h2 align="center">
   Aprendiendo
 </h2>
 
-<h4 align="left">
+<h4 align="center">
   Actualmente
 </h4>
 
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
@@ -163,10 +163,10 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <br>
 
-<h4 align="left">
+<h4 align="center">
   A futuro
 </h4>
-<div align="left">
+<div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
@@ -182,15 +182,15 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 </div>
 <br><br>
 
-<h2 align="left">
+<h2 align="center">
   Más información
 </h2>
 
-<h4 align="left">
+<h4 align="center">
   Redes sociales
 </h4>
 
-<div align="left">
+<div align="center">
 <a href="https://linkedin.com/in/adolfosanchezlopez" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="adolfosanchezlopez" width="30" height="30"/> </a> 
 <a href="https://www.hackerrank.com/adolfosan99" target="blank">
