@@ -148,15 +148,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <div align="center">
 <a href="#" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="30" height="30" /> </a>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite.js" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30" /> </a>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="30" height="30" /> </a>
 </div>
 
 <br>
@@ -177,6 +171,13 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="c#" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="30" height="30" /> </a>  
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite.js" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30" /> </a>  
 </div>
 <br><br>
 
