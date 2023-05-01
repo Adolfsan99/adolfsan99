@@ -39,6 +39,7 @@ alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
 <p align="center"><a href="https://github.com/Adolfsan99/docs-proyectos-links/blob/main/README.md">Ver todos</a></p>
 
 <br><br>
+
 <h2 align="center">
 Sobre mí
 </h2>
@@ -158,26 +159,26 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <h4 align="center">
   A futuro
 </h4>
+
 <div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue.js" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="c#" width="30" height="30" /> </a>  
-<a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="30" height="30" /> </a>  
-
-<a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite.js" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /> </a>  
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt="django" width="30" height="30" /> </a>  
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="30" height="30" /> </a>  
 </div>
 <br><br>
 
