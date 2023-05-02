@@ -127,7 +127,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 </div>
 
 <h4 align="center">
-  Plataforma de servicios en la nube
+  Plataforma de servicios en despliegue web
 </h4>
 
 <div align="center">
