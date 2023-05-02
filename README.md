@@ -64,7 +64,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Lenguajes de programación
 </h4>
 <div align="center">
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="30" height="30" /> </a>   
 <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="30" height="30" /> </a>
@@ -192,9 +192,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 
 <div align="center">
 <a href="https://linkedin.com/in/adolfosanchezlopez" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" title="linkedin" alt="linkedin" width="30" height="30"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" title="linkedin" alt="linkedin" width="30" height="30"/></a>  
 <a href="https://www.hackerrank.com/adolfosan99" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="HackerRank" alt="hackerrank" width="30" height="30" /> </a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="HackerRank" alt="hackerrank" width="30" height="30" /></a>  
 <a href="https://www.behance.net/adolfosanchezlopez" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" title="Behance" alt="behance" width="30" height="30" /></a>
 <br><br>
