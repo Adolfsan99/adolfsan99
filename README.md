@@ -151,6 +151,8 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="30" height="30" /></a>    
 <a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue.js" width="30" height="30" /></a>    
+<a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="30" height="30" /></a>    
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite.js" width="30" height="30" /></a>
@@ -165,8 +167,6 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <div align="center">
   <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="30" height="30" /></a>    
-  <a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue.js" width="30" height="30" /></a>    
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /></a>    
 <a href="#" target="_blank" rel="noreferrer"> 
