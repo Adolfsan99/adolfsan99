@@ -64,9 +64,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Lenguajes de programación
 </h4>
 <div align="center">
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a>   
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /> </a>
 </div>
 
@@ -74,9 +74,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Lenguajes de marcado
 </h4>
 <div align="center">
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>   
-<a href="#" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
 </div>
 
@@ -86,7 +86,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <div align="center">
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" /> </a>   
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /> </a>
 </div>
 
@@ -97,17 +97,17 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJIDEA" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="materializar" width="30" height="30" /> </a>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" /> </a>   
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materializar" width="30" height="30" /> </a>
+<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30" /> </a>
 </div>
 
 <h4 align="center">
@@ -119,7 +119,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="30" height="30" /> </a>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>   
 <a href="#" target="_blank" rel="noreferrer">
@@ -167,9 +167,9 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <div align="center">
   <a href="#" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="30" height="30" /></a>    
-<a href="#" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30" /></a>    
-<a href="#" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30" /></a>    
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="30" height="30" /></a>    
