@@ -59,6 +59,8 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Stack de tecnologias
 </h2>
 
+<br>
+
 <h4 align="center">
   Lenguajes de programación
 </h4>
@@ -136,7 +138,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 <img src="https://railway.app/brand/logo-light.svg" alt="railway" width="30" height="30" /></a>
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center">
   Aprendiendo
