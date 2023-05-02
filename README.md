@@ -59,7 +59,6 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
   Stack de tecnologias
 </h2>
 
-<br>
 
 <h4 align="center">
   Lenguajes de programación
