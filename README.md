@@ -91,7 +91,7 @@ Creo que mi experiencia y conocimientos pueden ser una herramienta valiosa para 
 </div>
 
 <h4 align="center">
-  Frameworks y herramientas de desarrollo
+  Herramientas de desarrollo y Frameworks 
 </h4>
 <div align="center">
 <a href="#" target="_blank" rel="noreferrer">
