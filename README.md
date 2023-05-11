@@ -7,11 +7,11 @@ Performance
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&langs_count=8&hide_progress=true" />
-</p>
-  
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=es&card_width=480&langs_count=8&hide_progress=true" />
 </p>
 
 <br>
