@@ -61,7 +61,7 @@ I believe that my experience and knowledge can be a valuable tool to help people
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="30" height="30" /> </a>   
 <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="30" height="30" /> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="30" height="30" /> </a>  
 </div>
 
 <h4 align="left">
