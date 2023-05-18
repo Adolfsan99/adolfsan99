@@ -21,6 +21,11 @@ Proyectos
 </h2>
 <br>
 <div align="center">
+<a href="https://5vxm7-laaaa-aaaap-abbua-cai.icp0.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/Adolfsan99/motokolistdapp/main/src/motokolistdapp_frontend/assets/favicon.png"
+alt="my motoko list" width="30" height="30" />  My Motoko List</a>   </div>
+<br>
+<div align="center">
 <a href="https://selocambio.netlify.app/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/Selocambio.com/main/assets/img/favicon/android-icon-36x36.png"
 alt="selocambio.com" width="30" height="30" />  Selocambio</a>   </div>
