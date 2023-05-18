@@ -1,4 +1,3 @@
-<br>
 <h2 align="left">
 Performance
 </h2>
