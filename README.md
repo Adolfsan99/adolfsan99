@@ -1,19 +1,13 @@
+<br>
 <h2 align="left">
 Performance
 </h2>
-
-<p align="left">
-
+<br>
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=transparent&show_icons=true&amp;hide_border=true&card_width=1&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=transparent&hide_border=true&locale=en&card_width=1&langs_count=8&layout=compact" />
-  </p>
-  
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=transparent&hide_border=true&locale=en&card_width=480"/>
-  </p>
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=1&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=1&layout=compact&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=438"/>
+  </p>  
 
 <br>
 <h2 align="left">
