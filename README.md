@@ -3,13 +3,13 @@ Performance
 </h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=480&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&show_icons=true&amp;hide_border=true&card_width=1&locale=en" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&hide_border=true&locale=en&card_width=480" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=en&card_width=480&langs_count=8&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&hide_border=true&locale=en&card_width=1&langs_count=8" />
 </p>
 <br>
 <h2 align="left">
