@@ -31,7 +31,7 @@ alt="econnect" width="30" height="30" />  Econnect</img></a>   </div>
 <div align="left">
 <a href="https://adolfsan99.github.io/sanchprod/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/Adolfsan99/sanchprod/gh-pages/assets/favicons/apple-touch-icon-57x57.png"
-alt="portafolio" width="30" height="30" />  Portafolio</img></a>   </div>
+alt="portafolio" width="30" height="30" />  Portfolio</img></a>   </div>
 <br>
 <br>
 <p align="left"><a href="https://github.com/Adolfsan99/docs-proyectos-links/blob/main/README.md">See all</a></p>
