@@ -195,7 +195,7 @@ I believe that my experience and knowledge can be a valuable tool to help people
 </div>
 
 <div align="left">
-You can also check out my <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Resume.pdf">Resume</a>.
+You can also check out my <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Resume.pdf">Resume</a> its in Spanish.
 </div>
 
 <br>
