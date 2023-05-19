@@ -5,7 +5,7 @@ Performance
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=1&show_icons=true" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=1&layout=compact&langs_count=8" />-->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adolfsan99&theme=github_dark&locale=en&hide_border=true&card_width=360"/>
 </p>  
 <h2 align="left">
 About me
