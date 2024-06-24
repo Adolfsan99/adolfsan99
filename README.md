@@ -127,6 +127,28 @@ Maybe in the future
   <th>Project</th>
   <th>Tecnologies</th>
  </tr>
+
+ <tr>
+  <td>
+   <div align="left">
+    <a href="[https://5vxm7-laaaa-aaaap-abbua-cai.icp0.io/](https://adolfsan99.github.io/proyecto-encriptador/)" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/Adolfsan99/proyecto-encriptador/main/assets/favicon.png" alt="encriptador desencriptador" width="30" height="30" /> Encriptador/Desencriptador </a>
+   </div>
+  </td>
+  <td>
+   <div align="left">
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="30" height="30" />
+    </a>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="30" height="30" />
+    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="30" height="30" />
+    </a>
+   </div>
+  </td>
+ </tr>
+ 
  <tr>
   <td>
    <div align="left">
