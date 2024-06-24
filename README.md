@@ -242,6 +242,11 @@ Maybe in the future
  <a href="https://github.com/Adolfsan99/docs-proyectos-links/blob/main/README.md">See all</a>
 </p>
 <br>
+<h2 align="left"> Badges </h2>
+<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" title="linkedin" alt="linkedin" width="30" height="30" />
+  <p>ONE Oracle Next Education</p>
+<br>
 <h2 align="left"> More Information </h2>
 <h4 align="left"> Social Media </h4>
 <div align="left">
