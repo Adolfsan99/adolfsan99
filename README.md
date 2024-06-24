@@ -191,6 +191,9 @@ Maybe in the future
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="bootstrap" width="30" height="30" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="30" height="30" />
     </a>
+    <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="30" height="30" />
+    </a>
     <a href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Springboot" alt="springboot" width="30" height="30" />
     </a>
