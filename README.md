@@ -244,7 +244,7 @@ Maybe in the future
 <br>
 <h2 align="left"> Badges </h2>
 <br>
-  <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" max-width="250" max-height="250" />
+  <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="250px" height="250px" />
   <p>ONE Oracle Next Education</p>
 <br>
 <h2 align="left"> More Information </h2>
