@@ -264,5 +264,5 @@ Maybe in the future
  <br>
  <br>
 </div>
-<div align="left"> You can also check out my <a href="https://adolfsan99.github.io/sanchprod/assets/pt/docs/AS2023-Resume.pdf">Resume</a> (its in Spanish). </div>
+<div align="left"> You can also check out my <a href="https://drive.google.com/file/d/1C3Ka7kaCK-9GeapALCZGVVIJ-6UknB1z/view?usp=sharing">Resume</a> (its in Spanish). </div>
 <br>
