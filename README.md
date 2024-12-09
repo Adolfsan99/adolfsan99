@@ -249,8 +249,8 @@ Maybe in the future
 <br>
   <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" />
   <p>ONE Oracle Next Education - Logica de programación</p>
-    <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" />
-  <p>ONE Oracle Next Education - Portafolio</p>
+    <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" /><p>ONE Oracle Next Education - Portafolio</p>
+    <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraGeek.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" /><p>ONE Oracle Next Education - CRUD (JSON Server)</p>
 <br>
 <h2 align="left"> More Information </h2>
 <h4 align="left"> Social Media </h4>
