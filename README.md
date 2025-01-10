@@ -247,10 +247,15 @@ Maybe in the future
 <br>
 <h2 align="left"> Badges </h2>
 <br>
-  <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" />
-  <p>ONE Oracle Next Education - Logica de programación</p>
-    <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" /><p>ONE Oracle Next Education - Portafolio</p>
-    <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraGeek.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" mwidth="100px" height="100px" /><p>ONE Oracle Next Education - CRUD (JSON Server)</p>
+
+| Badge | Descripción |
+|-------|-------------|
+| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - Programming Logic** |
+| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - Portfolio** |
+| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraGeek.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - CRUD (JSON Server)** |
+| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraFlix.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - React** |
+
+
 <br>
 <h2 align="left"> More Information </h2>
 <h4 align="left"> Social Media </h4>
