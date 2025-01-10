@@ -264,7 +264,7 @@ Maybe in the future
              width="100" 
              height="100" />
       </td>
-      <td><strong>ONE Oracle Next Education - Lógica de programación</strong></td>
+      <td><strong>ONE Oracle Next Education - Programing Logic</strong></td>
     </tr>
     <tr>
       <td>
@@ -274,7 +274,7 @@ Maybe in the future
              width="100" 
              height="100" />
       </td>
-      <td><strong>ONE Oracle Next Education - Portafolio</strong></td>
+      <td><strong>ONE Oracle Next Education - Portfolio</strong></td>
     </tr>
     <tr>
       <td>
