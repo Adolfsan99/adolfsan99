@@ -248,13 +248,56 @@ Maybe in the future
 <h2 align="left"> Badges </h2>
 <br>
 
-| Badge | Descripción |
-|-------|-------------|
-| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - Programming Logic** |
-| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - Portfolio** |
-| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraGeek.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - CRUD (JSON Server)** |
-| <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraFlix.png" title="ONE Oracle Next Education" alt="ONE Oracle Next Education" width="100px" height="100px" /> | **ONE Oracle Next Education - React** |
-
+<table>
+  <thead>
+    <tr>
+      <th>Badge</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Prancheta%203.png" 
+             title="ONE Oracle Next Education" 
+             alt="ONE Oracle Next Education" 
+             width="100" 
+             height="100" />
+      </td>
+      <td><strong>ONE Oracle Next Education - Lógica de programación</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/main/icons/10-badges/Badge-Portfólio.png" 
+             title="ONE Oracle Next Education" 
+             alt="ONE Oracle Next Education" 
+             width="100" 
+             height="100" />
+      </td>
+      <td><strong>ONE Oracle Next Education - Portafolio</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraGeek.png" 
+             title="ONE Oracle Next Education" 
+             alt="ONE Oracle Next Education" 
+             width="100" 
+             height="100" />
+      </td>
+      <td><strong>ONE Oracle Next Education - CRUD (JSON Server)</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Adolfsan99/adolfsan99/refs/heads/main/icons/10-badges/Badge-AluraFlix.png" 
+             title="ONE Oracle Next Education" 
+             alt="ONE Oracle Next Education" 
+             width="100" 
+             height="100" />
+      </td>
+      <td><strong>ONE Oracle Next Education - React</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 <h2 align="left"> More Information </h2>
